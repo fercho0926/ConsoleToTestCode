@@ -8,19 +8,16 @@ namespace ConsoleToTestCode.Basic
 {
     public class Arrays
     {
-        public Arrays()
-        {
 
-        }
-
-        public void arrayInfo() {
+        public void BasicArray() {
             Random random = new Random();
 
 
-            //Declare the Array
-            var numbers = new double[10];
+            //Declare the Array and fill the array
+            var numbers = new double[5] {10,25,36,31,58};
+           // var numbers = new double[] {10,25,36,31,58};
 
-            //Fill the array
+            //Fill the array option1
             for (int i = 0; i < numbers.Length; i++)
             {
                 double randomNumer = random.Next(0, 20);
@@ -34,6 +31,9 @@ namespace ConsoleToTestCode.Basic
             }
 
         }
+
+
+      
 
 
     }

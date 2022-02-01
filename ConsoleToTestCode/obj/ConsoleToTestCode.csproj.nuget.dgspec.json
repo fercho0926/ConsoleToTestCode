@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WorkSpaces\\ConsoleToTestCode\\ConsoleToTestCode\\ConsoleToTestCode.csproj": {}
+    "C:\\WorkSpaces\\git\\ConsoleToTestCode\\ConsoleToTestCode\\ConsoleToTestCode.csproj": {}
   },
   "projects": {
-    "C:\\WorkSpaces\\ConsoleToTestCode\\ConsoleToTestCode\\ConsoleToTestCode.csproj": {
+    "C:\\WorkSpaces\\git\\ConsoleToTestCode\\ConsoleToTestCode\\ConsoleToTestCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkSpaces\\ConsoleToTestCode\\ConsoleToTestCode\\ConsoleToTestCode.csproj",
+        "projectUniqueName": "C:\\WorkSpaces\\git\\ConsoleToTestCode\\ConsoleToTestCode\\ConsoleToTestCode.csproj",
         "projectName": "ConsoleToTestCode",
-        "projectPath": "C:\\WorkSpaces\\ConsoleToTestCode\\ConsoleToTestCode\\ConsoleToTestCode.csproj",
+        "projectPath": "C:\\WorkSpaces\\git\\ConsoleToTestCode\\ConsoleToTestCode\\ConsoleToTestCode.csproj",
         "packagesPath": "C:\\Users\\mvasquez\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkSpaces\\ConsoleToTestCode\\ConsoleToTestCode\\obj\\",
+        "outputPath": "C:\\WorkSpaces\\git\\ConsoleToTestCode\\ConsoleToTestCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

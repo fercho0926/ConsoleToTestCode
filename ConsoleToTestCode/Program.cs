@@ -7,10 +7,26 @@ namespace ConsoleToTestCode
     {
         static void Main(string[] args)
         {
-            //Arrays
-            var array = new Arrays();
-            array.arrayInfo();
 
+            Console.WriteLine("Number");
+            var num = Console.ReadLine().ToString();
+
+            switch (num)
+            {
+                case "1":
+                    //Arrays
+                    var array = new Arrays();
+                    array.BasicArray();
+                    break;
+
+                case "2":
+                    //List
+                    var basicList = new List();
+                    basicList.createList();
+                    break;
+                default:
+                    break;
+            }
         }
     }
 }
