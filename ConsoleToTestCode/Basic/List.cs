@@ -8,10 +8,18 @@ namespace ConsoleToTestCode.Basic
 {
     public class List
     {
-        //Create  the list
-        public void createList() {
+        List<double> list;
 
-            List<double> list = new List<double>();
+        public List()
+        {
+            list = new List<double>();
+        }
+
+        //Create  the list
+        public void createList()
+        {
+
+
             list.Add(10.2);
             list.Add(20);
             list.Add(5.2);
@@ -26,6 +34,17 @@ namespace ConsoleToTestCode.Basic
                 Console.WriteLine(item);
 
             }
+        }
+
+        public void InfoList()
+        {
+            Console.WriteLine($"Max number on the  list {list.Max()}");
+            Console.WriteLine($"Min number on the  list {list.Min()}");
+            Console.WriteLine($"Amount {list.Count}");
+            Console.WriteLine($"Average {list.Average()}");
+            Console.WriteLine($"Id the list contains number 3 {list.Contains(3)}");
+            Console.WriteLine($"Id the list contains number 3 {list.OrderByDescending(x => x).ToList()}");
+
         }
     }
 }
