@@ -48,8 +48,15 @@ namespace ConsoleToTestCode
                     Console.WriteLine(firstClass.name);
                     Console.WriteLine($"The HighGest Number is{highNumber}");
                     firstClass.PrintList();
-                  
+                    break;
 
+                case "4":
+                    var ReferenciesAndValueTypes = new ReferenciesAndValueTypes();
+                    //ReferenciesAndValueTypes.ObjetosDiferenteReferencia();
+                    //ReferenciesAndValueTypes.ObjetosMismaReferencia();
+                    //ReferenciesAndValueTypes.PasarObjetosPorReferencia();
+                      //ReferenciesAndValueTypes.PasarValueTypesSinReferencia();
+                    ReferenciesAndValueTypes.PasarValueTypesConReferencia();
 
                     break;
                 default:
