@@ -1,4 +1,6 @@
 ﻿using ConsoleToTestCode.Basic;
+using ConsoleToTestCode.DelegatesClass;
+using ConsoleToTestCode.HeritanceClass;
 using System;
 
 namespace ConsoleToTestCode
@@ -57,7 +59,37 @@ namespace ConsoleToTestCode
                     //ReferenciesAndValueTypes.PasarObjetosPorReferencia();
                       //ReferenciesAndValueTypes.PasarValueTypesSinReferencia();
                     ReferenciesAndValueTypes.PasarValueTypesConReferencia();
+                    break;
 
+                case "5":
+                    var exceptions = new ExceptionClass();
+                    // exceptions.exceptionCrashMessage("test");
+                    exceptions.tryCatch();
+                    break;
+
+                case "6": //Overload
+                    var Overload = new OverloadMethods();
+                    Overload.overloadMethod();
+                    Overload.overloadMethod("HI");
+                    break;
+                case "7": //delegate simple
+                    var delegateDef = new DelegatesDefinition();
+                    delegateDef.ImplementandoDelegates();
+                    break;
+                case "8": //delegate Multiple
+                    var delegateMultiple = new DelegatesMulticast();
+                    delegateMultiple.LlamandoDelegadoMultiple();
+                    break;
+
+                case "9": //Heritance
+                    //var grandpa = new GrandFatherClass();
+                    //grandpa.printvalues();
+
+                    //var father = new FatherClass();
+                    //father.printvalues();
+
+                    var child = new ChildClass();
+                    child.printvalues();
                     break;
                 default:
                     break;

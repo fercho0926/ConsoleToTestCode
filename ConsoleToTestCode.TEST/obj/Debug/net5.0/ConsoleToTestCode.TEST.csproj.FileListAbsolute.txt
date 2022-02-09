@@ -1,4 +1,9 @@
+C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\CoverletSourceRootsMapping
 C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\testhost.dll
+C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\ConsoleToTestCode.deps.json
+C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\ConsoleToTestCode.runtimeconfig.json
+C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\ConsoleToTestCode.runtimeconfig.dev.json
+C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\ConsoleToTestCode.exe
 C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\testhost.exe
 C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
@@ -88,6 +93,8 @@ C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\zh-H
 C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\ConsoleToTestCode.dll
+C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\ConsoleToTestCode.pdb
 C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\obj\Debug\net5.0\ConsoleToTestCode.TEST.csproj.AssemblyReference.cache
 C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\obj\Debug\net5.0\ConsoleToTestCode.TEST.GeneratedMSBuildEditorConfig.editorconfig
 C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\obj\Debug\net5.0\ConsoleToTestCode.TEST.AssemblyInfoInputs.cache
@@ -98,10 +105,3 @@ C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\obj\Debug\net5.0\Cons
 C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\obj\Debug\net5.0\ref\ConsoleToTestCode.TEST.dll
 C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\obj\Debug\net5.0\ConsoleToTestCode.TEST.pdb
 C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\obj\Debug\net5.0\ConsoleToTestCode.TEST.genruntimeconfig.cache
-C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\CoverletSourceRootsMapping
-C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\ConsoleToTestCode.deps.json
-C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\ConsoleToTestCode.runtimeconfig.json
-C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\ConsoleToTestCode.runtimeconfig.dev.json
-C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\ConsoleToTestCode.exe
-C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\ConsoleToTestCode.dll
-C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode.TEST\bin\Debug\net5.0\ConsoleToTestCode.pdb
