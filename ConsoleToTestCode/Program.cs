@@ -1,6 +1,7 @@
 ﻿using ConsoleToTestCode.Basic;
 using ConsoleToTestCode.DelegatesClass;
 using ConsoleToTestCode.HeritanceClass;
+using ConsoleToTestCode.polimorphismClass;
 using System;
 
 namespace ConsoleToTestCode
@@ -91,6 +92,20 @@ namespace ConsoleToTestCode
                     var child = new ChildClass();
                     child.printvalues();
                     break;
+
+                case "10": //Polimorphism
+                    var polim = new SonHuman();
+                    polim.PensarConOverrideYVirtual();
+                    break;
+
+                case "11": //Interfaces
+                    //POR IMPLEMENTAR
+                    break;
+
+                case "12": //Abstracts
+                    //POR IMPLEMENTAR
+                    break;
+
                 default:
                     break;
             }
