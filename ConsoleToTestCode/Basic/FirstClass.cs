@@ -8,6 +8,8 @@ namespace ConsoleToTestCode.Basic
 {
     public class FirstClass
     {
+
+        public static double staticValues = 0.15; //this field cant be changed.
         public string name { get; set; }
         //I can declare a field outside any method to be used by all Methods In the class
         List<double> doubleList;

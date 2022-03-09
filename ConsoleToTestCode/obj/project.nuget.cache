@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "znEwc90twEc5F0HmF5ypUmz1S14pajMr8//iq8k2X6k/Of6fS+JOIRuGIF5AxM0Xd2l62rdApX4CrVGrRDYDDA==",
+  "dgSpecHash": "lm/ZGaicI+2OFrgZDXtOQgzE7ilpFylJU7kOBH9K/KklKsruyzAjr+W+Vkb4zrwNt9hAFjRgYpX7Ho083V73+A==",
   "success": true,
   "projectFilePath": "C:\\WorkSpaces\\git\\ConsoleToTestCode\\ConsoleToTestCode\\ConsoleToTestCode.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mvasquez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

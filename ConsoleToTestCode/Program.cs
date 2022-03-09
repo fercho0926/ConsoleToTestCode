@@ -1,7 +1,11 @@
 ﻿using ConsoleToTestCode.Basic;
 using ConsoleToTestCode.DelegatesClass;
+using ConsoleToTestCode.Enum;
 using ConsoleToTestCode.HeritanceClass;
+using ConsoleToTestCode.InterfaceExplicit;
 using ConsoleToTestCode.polimorphismClass;
+using ConsoleToTestCode.Struct;
+using Newtonsoft.Json;
 using System;
 
 namespace ConsoleToTestCode
@@ -31,16 +35,19 @@ namespace ConsoleToTestCode
 
                     break;
                 case "3":
-                    //List
+                    //Class
                     var firstClass = new FirstClass("CLASE");
 
-                    var highNumber = double.MinValue; 
+                    //Call Static values
+                    var staticvalueWithoutInstanciate = FirstClass.staticValues;
+
+                    var highNumber = double.MinValue;
                     for (int i = 0; i < 10; i++)
                     {
                         var rdm = new Random();
                         double randonNumber = rdm.Next(1, 100);
 
-                        if (randonNumber> highNumber)
+                        if (randonNumber > highNumber)
                         {
                             highNumber = randonNumber;
                         }
@@ -58,7 +65,7 @@ namespace ConsoleToTestCode
                     //ReferenciesAndValueTypes.ObjetosDiferenteReferencia();
                     //ReferenciesAndValueTypes.ObjetosMismaReferencia();
                     //ReferenciesAndValueTypes.PasarObjetosPorReferencia();
-                      //ReferenciesAndValueTypes.PasarValueTypesSinReferencia();
+                    //ReferenciesAndValueTypes.PasarValueTypesSinReferencia();
                     ReferenciesAndValueTypes.PasarValueTypesConReferencia();
                     break;
 
@@ -106,14 +113,60 @@ namespace ConsoleToTestCode
                     //POR IMPLEMENTAR
                     break;
 
+                case "13": //datetime
+                    var datime = new DatetimeClass();
+
+                    datime.DateTimesDef();
+                    break;
+
+                case "14": //Enum
+
+                    InitialEnum value = InitialEnum.Manager;
+                    Console.WriteLine(value);
+                    break;
+                case "15": //struct
+                    InitialStruct struckNew;
+                    struckNew.Name = "MIlton";
+                    struckNew.Departament= "antioquia";
+                    struckNew.struckMethod();
+                 
+                    break;
+
+                case "16": //explicit Implementation : INTERFACE
+
+                    Catalog catalog = new Catalog();
+                    //catalog.save(); //is not here becasuse is explicit, we have to call the interface
+
+                    //Way 1 to consume
+                    ISaveable saveable = new Catalog();
+                    saveable.save();
+
+                    //Way 2 to consume
+                    ((ISaveable)catalog).save();
+
+                    //DO NOT USE Var, because dont call the Interface
+                    var implicitCatalog = new Catalog();
+                    //implicitCatalog.save();
+
+
+                    break;
+
                 default:
                     break;
             }
         }
 
-         static void prueba(string msg) {
+        static void prueba(string msg)
+        {
 
             Console.WriteLine(msg);
+
+        }
+
+        static void testPackages()
+        {
+
+            //lets implment a class from a packagege implemented
 
         }
     }

@@ -30,3 +30,5 @@ C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode\obj\Debug\net5.0\ConsoleTo
 C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode\obj\Debug\net5.0\ref\ConsoleToTestCode.dll
 C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode\obj\Debug\net5.0\ConsoleToTestCode.pdb
 C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode\obj\Debug\net5.0\ConsoleToTestCode.genruntimeconfig.cache
+C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\WorkSpaces\git\ConsoleToTestCode\ConsoleToTestCode\obj\Debug\net5.0\ConsoleToTestCode.csproj.CopyComplete
