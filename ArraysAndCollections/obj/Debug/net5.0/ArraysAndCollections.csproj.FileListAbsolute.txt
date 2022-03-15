@@ -1,0 +1,16 @@
+C:\WorkSpaces\git\ConsoleToTestCode\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.exe
+C:\WorkSpaces\git\ConsoleToTestCode\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.deps.json
+C:\WorkSpaces\git\ConsoleToTestCode\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.runtimeconfig.json
+C:\WorkSpaces\git\ConsoleToTestCode\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.runtimeconfig.dev.json
+C:\WorkSpaces\git\ConsoleToTestCode\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.dll
+C:\WorkSpaces\git\ConsoleToTestCode\ArraysAndCollections\bin\Debug\net5.0\ref\ArraysAndCollections.dll
+C:\WorkSpaces\git\ConsoleToTestCode\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.pdb
+C:\WorkSpaces\git\ConsoleToTestCode\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\git\ConsoleToTestCode\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.AssemblyInfoInputs.cache
+C:\WorkSpaces\git\ConsoleToTestCode\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.AssemblyInfo.cs
+C:\WorkSpaces\git\ConsoleToTestCode\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\git\ConsoleToTestCode\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.dll
+C:\WorkSpaces\git\ConsoleToTestCode\ArraysAndCollections\obj\Debug\net5.0\ref\ArraysAndCollections.dll
+C:\WorkSpaces\git\ConsoleToTestCode\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.pdb
+C:\WorkSpaces\git\ConsoleToTestCode\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.genruntimeconfig.cache
+C:\WorkSpaces\git\ConsoleToTestCode\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.csproj.AssemblyReference.cache

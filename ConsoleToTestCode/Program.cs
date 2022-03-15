@@ -4,6 +4,7 @@ using ConsoleToTestCode.Enum;
 using ConsoleToTestCode.HeritanceClass;
 using ConsoleToTestCode.InterfaceExplicit;
 using ConsoleToTestCode.polimorphismClass;
+using ConsoleToTestCode.Records;
 using ConsoleToTestCode.Struct;
 using Newtonsoft.Json;
 using System;
@@ -148,6 +149,20 @@ namespace ConsoleToTestCode
                     var implicitCatalog = new Catalog();
                     //implicitCatalog.save();
 
+
+                    break;
+                case "17":
+                    //RECORS
+
+                    var records = new Course();
+                    records.Name= "Course Repos";
+                    records.Author = "Ferney";
+
+
+                    var CallTheRecors = new RecordDefinition(
+                        "NameRecore",
+                        "Fer"
+                        );
 
                     break;
 

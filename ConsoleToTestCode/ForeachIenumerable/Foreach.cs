@@ -11,18 +11,13 @@ namespace ConsoleToTestCode.ForeachIenumerable
 
         public void TestForeach() {
 
-            var person1 = new Person(1, "MIl", "Vas");
-            var person2 = new Person(2, "dos", "Vas");
-
+       
 
             var Flist = new List<Person>();
-            Flist.Add(person1);
-            Flist.Add(person2);
+            Flist.Add(new Person(1, "MIl", "Vas"));
+            Flist.Add(new Person(2, "dos", "Vas"));
 
-            foreach (var item in collection)
-            {
-
-            }
+       
 
             
 
