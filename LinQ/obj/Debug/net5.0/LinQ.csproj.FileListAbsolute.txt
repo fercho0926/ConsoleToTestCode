@@ -1,0 +1,16 @@
+C:\WorkSpaces\git\ConsoleToTestCode\LinQ\bin\Debug\net5.0\LinQ.exe
+C:\WorkSpaces\git\ConsoleToTestCode\LinQ\bin\Debug\net5.0\LinQ.deps.json
+C:\WorkSpaces\git\ConsoleToTestCode\LinQ\bin\Debug\net5.0\LinQ.runtimeconfig.json
+C:\WorkSpaces\git\ConsoleToTestCode\LinQ\bin\Debug\net5.0\LinQ.runtimeconfig.dev.json
+C:\WorkSpaces\git\ConsoleToTestCode\LinQ\bin\Debug\net5.0\LinQ.dll
+C:\WorkSpaces\git\ConsoleToTestCode\LinQ\bin\Debug\net5.0\ref\LinQ.dll
+C:\WorkSpaces\git\ConsoleToTestCode\LinQ\bin\Debug\net5.0\LinQ.pdb
+C:\WorkSpaces\git\ConsoleToTestCode\LinQ\obj\Debug\net5.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\git\ConsoleToTestCode\LinQ\obj\Debug\net5.0\LinQ.AssemblyInfoInputs.cache
+C:\WorkSpaces\git\ConsoleToTestCode\LinQ\obj\Debug\net5.0\LinQ.AssemblyInfo.cs
+C:\WorkSpaces\git\ConsoleToTestCode\LinQ\obj\Debug\net5.0\LinQ.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\git\ConsoleToTestCode\LinQ\obj\Debug\net5.0\LinQ.dll
+C:\WorkSpaces\git\ConsoleToTestCode\LinQ\obj\Debug\net5.0\ref\LinQ.dll
+C:\WorkSpaces\git\ConsoleToTestCode\LinQ\obj\Debug\net5.0\LinQ.pdb
+C:\WorkSpaces\git\ConsoleToTestCode\LinQ\obj\Debug\net5.0\LinQ.genruntimeconfig.cache
+C:\WorkSpaces\git\ConsoleToTestCode\LinQ\obj\Debug\net5.0\LinQ.csproj.AssemblyReference.cache

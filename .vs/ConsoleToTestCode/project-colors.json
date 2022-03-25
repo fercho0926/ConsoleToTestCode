@@ -5,7 +5,37 @@
       "ProjectGuid": "3dd480d2-b06a-4789-97be-792599d20f00",
       "DisplayName": "Generics",
       "ColorIndex": 0
+    },
+    "eabbad10-367c-4b83-9151-c5b55b398114": {
+      "ProjectGuid": "eabbad10-367c-4b83-9151-c5b55b398114",
+      "DisplayName": "ConsoleToTestCode",
+      "ColorIndex": 1
+    },
+    "0f8f57a0-169d-462f-9d65-3562770b13dc": {
+      "ProjectGuid": "0f8f57a0-169d-462f-9d65-3562770b13dc",
+      "DisplayName": "ArraysAndCollections",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bc2f4ff8-5d11-40ec-9388-754afbce57b9": {
+      "ProjectGuid": "bc2f4ff8-5d11-40ec-9388-754afbce57b9",
+      "DisplayName": "ExtencionMethods",
+      "ColorIndex": 3
+    },
+    "f1978069-6676-44e1-9cf5-32e9d1137200": {
+      "ProjectGuid": "f1978069-6676-44e1-9cf5-32e9d1137200",
+      "DisplayName": "LinQ",
+      "ColorIndex": 4
+    },
+    "ac4cebc2-8c29-4885-aaca-0990f3f6a468": {
+      "ProjectGuid": "ac4cebc2-8c29-4885-aaca-0990f3f6a468",
+      "DisplayName": "LINQSamples",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 6
 }

@@ -1,0 +1,16 @@
+C:\WorkSpaces\git\ConsoleToTestCode\ExtencionMethods\bin\Debug\net5.0\ExtencionMethods.exe
+C:\WorkSpaces\git\ConsoleToTestCode\ExtencionMethods\bin\Debug\net5.0\ExtencionMethods.deps.json
+C:\WorkSpaces\git\ConsoleToTestCode\ExtencionMethods\bin\Debug\net5.0\ExtencionMethods.runtimeconfig.json
+C:\WorkSpaces\git\ConsoleToTestCode\ExtencionMethods\bin\Debug\net5.0\ExtencionMethods.runtimeconfig.dev.json
+C:\WorkSpaces\git\ConsoleToTestCode\ExtencionMethods\bin\Debug\net5.0\ExtencionMethods.dll
+C:\WorkSpaces\git\ConsoleToTestCode\ExtencionMethods\bin\Debug\net5.0\ref\ExtencionMethods.dll
+C:\WorkSpaces\git\ConsoleToTestCode\ExtencionMethods\bin\Debug\net5.0\ExtencionMethods.pdb
+C:\WorkSpaces\git\ConsoleToTestCode\ExtencionMethods\obj\Debug\net5.0\ExtencionMethods.csproj.AssemblyReference.cache
+C:\WorkSpaces\git\ConsoleToTestCode\ExtencionMethods\obj\Debug\net5.0\ExtencionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\git\ConsoleToTestCode\ExtencionMethods\obj\Debug\net5.0\ExtencionMethods.AssemblyInfoInputs.cache
+C:\WorkSpaces\git\ConsoleToTestCode\ExtencionMethods\obj\Debug\net5.0\ExtencionMethods.AssemblyInfo.cs
+C:\WorkSpaces\git\ConsoleToTestCode\ExtencionMethods\obj\Debug\net5.0\ExtencionMethods.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\git\ConsoleToTestCode\ExtencionMethods\obj\Debug\net5.0\ExtencionMethods.dll
+C:\WorkSpaces\git\ConsoleToTestCode\ExtencionMethods\obj\Debug\net5.0\ref\ExtencionMethods.dll
+C:\WorkSpaces\git\ConsoleToTestCode\ExtencionMethods\obj\Debug\net5.0\ExtencionMethods.pdb
+C:\WorkSpaces\git\ConsoleToTestCode\ExtencionMethods\obj\Debug\net5.0\ExtencionMethods.genruntimeconfig.cache
