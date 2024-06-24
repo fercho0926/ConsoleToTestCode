@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4BGWr/IqglV1hQcj4pbKvuwXVh56QplrHRTtnU6zy+r/HDlyyDhlH7eb0zNxoR2Mwv9ca7OWNHZBbUAHXkvWsA==",
+  "dgSpecHash": "zyIlJjfWBC+/JLbjc9vB7UWE5EvGR7QzLwFpFCbAF+UqHLwiXjkbbEIjmf623eS44r4kCW8x1zKEWdxfOT9VOQ==",
   "success": true,
-  "projectFilePath": "C:\\WorkSpaces\\git\\ConsoleToTestCode\\Generics\\Generics.csproj",
+  "projectFilePath": "C:\\WorkSpaces\\ConsoleToTestCode\\Generics\\Generics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mvasquez\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.15\\microsoft.entityframeworkcore.5.0.15.nupkg.sha512",
     "C:\\Users\\mvasquez\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.15\\microsoft.entityframeworkcore.abstractions.5.0.15.nupkg.sha512",

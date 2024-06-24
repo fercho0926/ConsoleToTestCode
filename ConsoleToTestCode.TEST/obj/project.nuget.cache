@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ksoBfDhcaCI6NTKtHxWcq0f49mvbcECOp5l4IvHiuxL0dmNYiIB9dUnp7Zv/RcGlyhD5sXZlOIel7QtQgAFrwA==",
+  "dgSpecHash": "mGLwStp+4bSZOTun51yGhYNCNSB7GOr0Un98sKv5RjA12nK9ibnEHNS0gKy8PTELz6t9MYIy8n2fMLSo2c3jPw==",
   "success": true,
-  "projectFilePath": "C:\\WorkSpaces\\git\\ConsoleToTestCode\\ConsoleToTestCode.TEST\\ConsoleToTestCode.TEST.csproj",
+  "projectFilePath": "C:\\WorkSpaces\\ConsoleToTestCode\\ConsoleToTestCode.TEST\\ConsoleToTestCode.TEST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mvasquez\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\mvasquez\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

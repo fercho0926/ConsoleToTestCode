@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WorkSpaces\\git\\ConsoleToTestCode\\ExtencionMethods\\ExtencionMethods.csproj": {}
+    "C:\\WorkSpaces\\ConsoleToTestCode\\ExtencionMethods\\ExtencionMethods.csproj": {}
   },
   "projects": {
-    "C:\\WorkSpaces\\git\\ConsoleToTestCode\\ExtencionMethods\\ExtencionMethods.csproj": {
+    "C:\\WorkSpaces\\ConsoleToTestCode\\ExtencionMethods\\ExtencionMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkSpaces\\git\\ConsoleToTestCode\\ExtencionMethods\\ExtencionMethods.csproj",
+        "projectUniqueName": "C:\\WorkSpaces\\ConsoleToTestCode\\ExtencionMethods\\ExtencionMethods.csproj",
         "projectName": "ExtencionMethods",
-        "projectPath": "C:\\WorkSpaces\\git\\ConsoleToTestCode\\ExtencionMethods\\ExtencionMethods.csproj",
+        "projectPath": "C:\\WorkSpaces\\ConsoleToTestCode\\ExtencionMethods\\ExtencionMethods.csproj",
         "packagesPath": "C:\\Users\\mvasquez\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkSpaces\\git\\ConsoleToTestCode\\ExtencionMethods\\obj\\",
+        "outputPath": "C:\\WorkSpaces\\ConsoleToTestCode\\ExtencionMethods\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
           "C:\\Users\\mvasquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -41,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -52,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
